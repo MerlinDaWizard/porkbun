@@ -1,4 +1,4 @@
-module github.com/caddy-dns/porkbun
+module github.com/MerlinDaWizard/porkbun
 
 go 1.20
 
