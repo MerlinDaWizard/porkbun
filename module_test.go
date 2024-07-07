@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	porkbun "github.com/libdns/porkbun"
+	porkbun "github.com/MerlinDaWizard/porkbun"
 )
 
 func TestUnmarshalCaddyFile(t *testing.T) {
